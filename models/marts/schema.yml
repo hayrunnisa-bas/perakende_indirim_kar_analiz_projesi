@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: indirim_kar_analizi
+    description: "İndirim oranlarına göre ciro, satış adedi ve kârlılık analiz tablosu."
+    columns:
+      - name: category
+        description: "Ürün kategorisi"
+        tests:
+          - not_null
+
+      - name: toplam_ciro
+        description: "Toplam ciro tutarı"
+        tests:
+          - not_null
+
+      - name: toplam_satilan_urun_adedi
+        description: "Satılan toplam ürün adedi"
+        tests:
+          - not_null

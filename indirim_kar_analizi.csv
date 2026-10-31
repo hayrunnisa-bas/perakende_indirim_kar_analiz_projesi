@@ -1,0 +1,16 @@
+indirim_grubu,category,toplam_islem_sayisi,toplam_satilan_urun_adedi,ortalama_fiyat,toplam_ciro
+Dusuk Indirim (%1 - %10),Groceries,16024,1581785.0,51.59,85496561.27
+Dusuk Indirim (%1 - %10),Furniture,7228,445751.0,121.7,56699238.13
+Yuksek Indirim (%10 Üstü),Groceries,7531,899187.0,48.61,46125389.2
+Dusuk Indirim (%1 - %10),Clothing,6470,589769.0,71.35,43651255.13
+Indirimsiz,Groceries,6845,646363.0,55.18,37242541.97
+Dusuk Indirim (%1 - %10),Electronics,4796,380982.0,82.84,33182883.81
+Yuksek Indirim (%10 Üstü),Furniture,3312,251478.0,112.63,29663226.97
+Indirimsiz,Furniture,3140,183425.0,130.42,24921109.77
+Yuksek Indirim (%10 Üstü),Clothing,2939,320880.0,67.13,22512214.45
+Indirimsiz,Clothing,2751,240224.0,76.62,19037138.33
+Yuksek Indirim (%10 Üstü),Electronics,2243,218243.0,77.98,18023477.63
+Indirimsiz,Electronics,2081,158110.0,89.54,14833512.61
+Dusuk Indirim (%1 - %10),Toys,5698,426080.0,26.92,12240134.98
+Yuksek Indirim (%10 Üstü),Toys,2633,239682.0,25.04,6450251.27
+Indirimsiz,Toys,2309,168917.0,29.03,5221158.98
